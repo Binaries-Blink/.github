@@ -3,7 +3,7 @@
 - [ ] Blast cpmiler backend
   - [ ] full semantic analysis
   - [ ] General optimization passes
-  - [ ] re-writeen in blink
+  - [ ] re-writen in blink
 - [ ] BlinkScript Language
   - [ ] virtual machine
   - [ ] re-writeen in blink
