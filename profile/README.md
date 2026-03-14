@@ -1,16 +1,17 @@
 # Blink
 ## Roadmap
 - [ ] Blast cpmiler backend
-  - [ ] full semantic analysis
+  - [ ] Full semantic analysis
   - [ ] General optimization passes
-  - [ ] re-writen in blink
+  - [ ] Re-written in Blink
 - [ ] BlinkScript Language
-  - [ ] virtual machine
-  - [ ] re-writeen in blink
+  - [ ] Ast flattening and evaluation
+  - [ ] Register based virtual machine
+  - [ ] Re-written in Blink
 - [ ] Blink Language
   - [ ] Parse into Blast Ast
   - [ ] Compiler specific optimziations
-  - [ ] comprehensive and powerful standard library
-    - [ ] math & linear algebra library
-    - [ ] complex number & math support
-  - [ ] self hosting
+  - [ ] Comprehensive and powerful standard library
+    - [ ] Math & linear algebra library
+    - [ ] Complex number & math support
+  - [ ] Self hosting
